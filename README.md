@@ -22,6 +22,6 @@
 <div align="center">
 <a href="https://velog.io/@uiseok0514/Project-MarketPass" > <img src="https://user-images.githubusercontent.com/116103097/202356457-db68f4dd-e1dd-42c4-add2-23beebc56583.png" width="400" height="300"></a>
 <a href="https://github.com/LYUHIT/ojakkyu" > <img src="https://user-images.githubusercontent.com/116103097/202361645-bc9326bf-ad7c-4529-83ae-3fc055f8f154.png" width="400" height="300"></a>
-<a href="https://velog.io/@uiseok0514/Project-MarketPass" > <img src="https://user-images.githubusercontent.com/116103097/202356457-db68f4dd-e1dd-42c4-add2-23beebc56583.png" width="400" height="300"></a>
-<a href="https://velog.io/@uiseok0514/Project-MarketPass" > <img src="https://user-images.githubusercontent.com/116103097/202356457-db68f4dd-e1dd-42c4-add2-23beebc56583.png" width="400" height="300"></a>
+<a href="https://velog.io/@uiseok0514/Project-MarketPass" > <img src="https://user-images.githubusercontent.com/116103097/202363108-38924040-7720-459e-9c94-5f46d4d4bbe1.png" width="400" height="300"></a>
+<a href="https://velog.io/@uiseok0514/Project-MarketPass" > <img src="https://user-images.githubusercontent.com/116103097/202363108-38924040-7720-459e-9c94-5f46d4d4bbe1.png" width="400" height="300"></a>
 </div>
