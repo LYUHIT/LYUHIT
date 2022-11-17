@@ -20,8 +20,8 @@
 
 ## 주요 프로젝트
 <div align="center">
-<a href="https://velog.io/@uiseok0514/Project-MarketPass" > <img src="https://user-images.githubusercontent.com/116103097/202356457-db68f4dd-e1dd-42c4-add2-23beebc56583.png" width="500" height="400"></a>
-<a href="https://velog.io/@uiseok0514/Project-MarketPass" > <img src="https://user-images.githubusercontent.com/116103097/202356457-db68f4dd-e1dd-42c4-add2-23beebc56583.png" width="500" height="400"></a>
-<a href="https://velog.io/@uiseok0514/Project-MarketPass" > <img src="https://user-images.githubusercontent.com/116103097/202356457-db68f4dd-e1dd-42c4-add2-23beebc56583.png" width="500" height="400"></a>
-<a href="https://velog.io/@uiseok0514/Project-MarketPass" > <img src="https://user-images.githubusercontent.com/116103097/202356457-db68f4dd-e1dd-42c4-add2-23beebc56583.png" width="500" height="400"></a>
+<a href="https://velog.io/@uiseok0514/Project-MarketPass" > <img src="https://user-images.githubusercontent.com/116103097/202356457-db68f4dd-e1dd-42c4-add2-23beebc56583.png" width="400" height="300"></a>
+<a href="https://velog.io/@uiseok0514/Project-MarketPass" > <img src="https://user-images.githubusercontent.com/116103097/202356457-db68f4dd-e1dd-42c4-add2-23beebc56583.png" width="400" height="300"></a>
+<a href="https://velog.io/@uiseok0514/Project-MarketPass" > <img src="https://user-images.githubusercontent.com/116103097/202356457-db68f4dd-e1dd-42c4-add2-23beebc56583.png" width="400" height="300"></a>
+<a href="https://velog.io/@uiseok0514/Project-MarketPass" > <img src="https://user-images.githubusercontent.com/116103097/202356457-db68f4dd-e1dd-42c4-add2-23beebc56583.png" width="400" height="300"></a>
 </div>
