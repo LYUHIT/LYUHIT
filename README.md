@@ -12,18 +12,18 @@
 | Frontend | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">  |  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> |
 <br/> 
 
-## ▪️ 주요 포스트 ---( 🛠 수정 중 )
+## ▪️ 주요 포스트
 - 왜 express() 인가? https://velog.io/@uiseok0514/JS-why-express-not-express
-- This 에 대한 고찰 https://velog.io/@uiseok0514/JS-why-express-not-express
-- Promise 에 대한 고찰 https://velog.io/@uiseok0514/JS-why-express-not-express
+- @decorator 란? https://velog.io/@uiseok0514/TS-Decorator-feat-nestJS
+- BilliG 프로젝트에 대한 회고 https://velog.io/@uiseok0514/Project-BilliG
 <br/>
 
 
 
-## ▪️ 주요 프로젝트 ---( 🛠 수정 중 )
+## ▪️ 주요 프로젝트
 <div align="center">
 <a href="https://velog.io/@uiseok0514/Project-MarketPass" > <img src="https://user-images.githubusercontent.com/116103097/202356457-db68f4dd-e1dd-42c4-add2-23beebc56583.png" width="400" height="300"></a>
 <a href="https://github.com/LYUHIT/ojakkyu" > <img src="https://user-images.githubusercontent.com/116103097/202667837-11dcb9e0-185b-4c0b-88fe-8725b347fac3.jpg" width="400" height="300"></a>
 <a href="https://github.com/BilliG-14/BilliG-BACK.git" > <img src="https://user-images.githubusercontent.com/116103097/210710475-02c9ccf8-48af-47b2-81fa-11e9a369e648.jpeg" width="400" height="300"></a>
-<a href="https://velog.io/@uiseok0514/Project-MarketPass" > <img src="https://user-images.githubusercontent.com/116103097/202363108-38924040-7720-459e-9c94-5f46d4d4bbe1.png" width="400" height="300"></a>
+<a href="" > <img src="https://user-images.githubusercontent.com/116103097/202363108-38924040-7720-459e-9c94-5f46d4d4bbe1.png" width="400" height="300"></a>
 </div>
