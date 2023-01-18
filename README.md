@@ -16,6 +16,7 @@
 - 왜 express() 인가? https://velog.io/@uiseok0514/JS-why-express-not-express
 - @decorator 란? https://velog.io/@uiseok0514/TS-Decorator-feat-nestJS
 - BilliG 프로젝트에 대한 회고 https://velog.io/@uiseok0514/Project-BilliG
+- 이터레이터와 지연평가와 제너레이터 https://velog.io/@uiseok0514/JS-iterator-lazyevaluation-generator
 <br/>
 
 
