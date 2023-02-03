@@ -13,10 +13,10 @@
 <br/> 
 
 ## ▪️ 주요 포스트
-- [   Network  ] TCP, SSL
+- [   Network  ] TCP, SSL https://
 - [ JavaScript ] 자바스크립트의 객체와 함수와 클래스 https://velog.io/@uiseok0514/JS-object-function-class
+- [ JavaScript ] 이터레이터, 제너레이터, 지연평가 https://velog.io/@uiseok0514/JS-iterator-lazyevaluation-generator
 - [  TypeScipt ] @decorator 란? https://velog.io/@uiseok0514/TS-Decorator-feat-nestJS
-- [ JavaScript ] 이터레이터와 제너레이터와 지연평가 https://velog.io/@uiseok0514/JS-iterator-lazyevaluation-generator
 - [   Project  ] BilliG 프로젝트에 대한 회고 https://velog.io/@uiseok0514/Project-BilliG
 <br/>
 
