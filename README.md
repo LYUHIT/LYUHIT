@@ -21,6 +21,8 @@
 - [   Project  ] BilliG 프로젝트에 대한 회고 https://velog.io/@uiseok0514/Project-BilliG
 <br/>
 
+## ▪️ 스터디 유튜브
+- 흑묘테크 스터디 (YouTube) : https://www.youtube.com/@blackRabbitTech
 
 
 ## ▪️ 주요 프로젝트
