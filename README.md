@@ -28,13 +28,13 @@
 
 ## ▪️ 주요 프로젝트
 <div align="center">
-<a href="https://velog.io/@uiseok0514/Project-MarketPass" >
-  <img src="https://user-images.githubusercontent.com/116103097/202356457-db68f4dd-e1dd-42c4-add2-23beebc56583.png" width="400" height="300"></a>
-<a href="https://github.com/LYUHIT/ojakkyu" > 
-  <img src="https://user-images.githubusercontent.com/116103097/202667837-11dcb9e0-185b-4c0b-88fe-8725b347fac3.jpg" width="400" height="300"></a>
-<a href="https://github.com/BilliG-14/BilliG-BACK.git" > 
-  <img src="https://user-images.githubusercontent.com/116103097/210710475-02c9ccf8-48af-47b2-81fa-11e9a369e648.jpeg" width="400" height="300"></a>
-<a href="https://github.com/ObO314/ObO-back" > 
+  <a href="https://github.com/ObO314/ObO-back" > 
   <img src="https://user-images.githubusercontent.com/116103097/231535114-3f62329b-9555-4738-846d-4dde50984e17.jpg" width="400" height="300"></a>
+  <a href="https://github.com/BilliG-14/BilliG-BACK.git" > 
+  <img src="https://user-images.githubusercontent.com/116103097/210710475-02c9ccf8-48af-47b2-81fa-11e9a369e648.jpeg" width="400" height="300"></a>
+  <a href="https://github.com/LYUHIT/ojakkyu" > 
+  <img src="https://user-images.githubusercontent.com/116103097/202667837-11dcb9e0-185b-4c0b-88fe-8725b347fac3.jpg" width="400" height="300"></a>
+  <a href="https://github.com/LYUHIT/marketpass" >
+  <img src="https://user-images.githubusercontent.com/116103097/202356457-db68f4dd-e1dd-42c4-add2-23beebc56583.png" width="400" height="300"></a>
 </div>
 
