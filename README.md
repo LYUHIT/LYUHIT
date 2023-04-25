@@ -1,6 +1,4 @@
 
-# <div align="center">UI SEOK</div>
-
 ### <div align="center">컴퓨터 세상에서 집을 짓는 예술가</div>
 <br/>
 
