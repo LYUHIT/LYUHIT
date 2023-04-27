@@ -22,7 +22,7 @@
 <br/>
 
 ## ▪️ 스터디 유튜브
-- 흑묘테크 스터디 (YouTube) : https://www.youtube.com/@blackRabbitTech
+- 흑묘테크 스터디 (YouTube) : https://www.youtube.com/@blackRabbitTech/search?query=%EC%9C%A0%EC%9D%98%EC%84%9D
 <br/>
 
 ## ▪️ 주요 프로젝트
