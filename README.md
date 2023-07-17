@@ -32,7 +32,7 @@
 - 흑묘테크 스터디 (YouTube) : https://www.youtube.com/@blackRabbitTech/search?query=%EC%9C%A0%EC%9D%98%EC%84%9D
 <br/>
 
-## ▪️ 주요 프로젝트
+## ▪️ 주요 프로젝트 (이미지 클릭 시 이동)
 <div align="center">
   <a href="https://github.com/ObO314/ObO-back" > 
   <img src="https://user-images.githubusercontent.com/116103097/231535114-3f62329b-9555-4738-846d-4dde50984e17.jpg" width="400" height="300"></a>
